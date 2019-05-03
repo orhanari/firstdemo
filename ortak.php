@@ -11,3 +11,6 @@ function bar($arguman) {
 function foo($patateskizartmasi){
 	echo "foo fonksiyonu '$patateskizartmasi' argümanı ile çağırıldı.";
 }
+
+// istek sonrası eklenen bir satır
+bar(date("Y-m-d h:i:s"));
