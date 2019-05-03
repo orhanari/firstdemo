@@ -8,6 +8,6 @@ function bar($arguman) {
 
 
 // buraya foo fonksiyonunu orhan ekleyecek
-fuction foo($patateskizartmasi){
+function foo($patateskizartmasi){
 	echo "foo fonksiyonu '$patateskizartmasi' argümanı ile çağırıldı.";
 }
